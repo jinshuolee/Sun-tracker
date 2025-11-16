@@ -6,3 +6,4 @@
   在機構設計及製造完成後，因為我們當初考慮的較為仔細，所以組裝上沒有遇到甚麼困難，組裝完後就開始了實驗的測試，拿去戶外實測時，我們發現焦點確實的聚焦在了理想位置，且聚焦溫度在短時間內也能迅速達到300度左右。未來會配合上實驗室的史特靈引擎來使整個發電系統更加完善，進而達到我們的最終目的。
 
 ![image alt](https://github.com/jinshuolee/Sun-tracker/blob/0847ee04dc62d6599026741806a77180151317ef/sun_tracker.jpg)
+![image alt](https://github.com/jinshuolee/Sun-tracker/blob/main/sun_tracker.jpg?raw=true)
